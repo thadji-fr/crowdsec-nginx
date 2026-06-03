@@ -1,0 +1,6 @@
+# Acquisition logs SWAG (Docker)
+# Adaptez le chemin selon votre volume Docker
+filenames:
+  - /chemin/vers/swag/config/log/nginx/*.log
+labels:
+  type: nginx

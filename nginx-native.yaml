@@ -1,0 +1,6 @@
+# Emplacement des fichiers logs de nginx
+
+filenames:
+  - /var/log/nginx/*.log 
+labels:
+  type: nginx
